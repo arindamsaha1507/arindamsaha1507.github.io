@@ -48,7 +48,7 @@ Organised various workshops on
 - Computer Sciences
 
 ## Publications
-See the [Publications page](/_publications)
+See the [Publications page](/publications)
 
 ## Technical Experience
 - **High-Performance Computing:** Worked on multiple SLURM and SGE-based HPC clusters including national-level HPCs like ARCHER2 in the UK and Eagle in Poland and other smaller supercomputers owned by universities of Sheffield and Oldenburg.
