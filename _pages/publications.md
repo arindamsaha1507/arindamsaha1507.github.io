@@ -23,7 +23,7 @@ author_profile: true
 14. **Saha A.** and Amritkar R. E., "Dependence of Synchronisation Frequency of Kuramoto oscillators on symmetry of intrinsic frequency in ring network", Pramana **83**, 6: pp. 945-953 (2014).[Link](https://link.springer.com/article/10.1007/s12043-014-0831-5)
 
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=p6ciQG8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
 <!-- {% if author.googlescholar %}
